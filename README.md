@@ -1,7 +1,7 @@
 
 # Welcome to Repo Racers!
 
-![Repo Racers](assets/images/repo-racers-header.png)
+![Repo Racers](repo-racers-header.png)
 
 
 At **Repo Racers**, we're not just a GitHub professional services company; we're your pit crew in the fast-paced world of code management and development. 🏁
