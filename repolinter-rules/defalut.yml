@@ -1,0 +1,22 @@
+axioms:
+  linguistLanguages: ["JavaScript", "HTML", "CSS", "Python", "C", "C++", "Go", "Java", "TypeScript", "C#", "Ruby", "Swift", "PHP", "Rust", "Kotlin", "Scala", "Shell", "Perl", "R"]
+rules:
+  readme-file-exists:file-existence:
+    options:
+      globsAny: ["README*"]
+  contributing-file-exists:file-existence:
+    options:
+      globsAny: ["CONTRIBUTING*"]
+  code-of-conduct-file-exists:file-existence:
+    options:
+      globsAny: ["CODE_OF_CONDUCT*"]
+  changelog-file-exists:file-existence:
+    options:
+      globsAny: ["CHANGELOG*"]
+  source-license-headers-exist:license-header:
+    options:
+      copyrightHolder: "Repo Racers"
+      licenseType: "MIT"
+  codeowners-file-exists:file-existence:
+    options:
+      globsAny: [".github/CODEOWNERS"]
