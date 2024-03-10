@@ -1,5 +1,5 @@
 # Rules for Repo Racers
-# https://github.com/todogroup/repolinter
+# See this projct for mmore information on the application of this file: https://github.com/todogroup/repolinter
 
 axioms:
   linguistLanguages: ["JavaScript", "HTML", "CSS", "Python", "C", "C++", "Go", "Java", "TypeScript", "C#", "Ruby", "Swift", "PHP", "Rust", "Kotlin", "Scala", "Shell", "Perl", "R"]
