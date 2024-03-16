@@ -5,9 +5,6 @@
 
 ![In Git We Trust](assets/images/in_git_we_trust.webp)
 
-![Repo Racers](https://github.com/repo-racers/.github/blob/main/profile/in_git_we_trust.webp)
-
-
 At **Repo Racers**, we're not just a GitHub professional services company; we're your pit crew in the fast-paced world of code management and development. 🏁
 
 ## 🚀 What We Offer
