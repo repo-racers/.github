@@ -1,9 +1,9 @@
 
 # Welcome to Repo Racers!
 
-<p style="font-size:30px;">"In Git We Trust, everything else can fork off!"</p>
+<p style="font-size:30px;">"In Git We Trust!"</p>
 
-![Repo Racers](https://github.com/repo-racers/.github/blob/main/profile/in_git_we_trust.webp)
+![Repo Racers](https://raw.githubusercontent.com/repo-racers/repo-racers/main/docs/assets/images/heroes/richard_stallman.webp)
 
 At **Repo Racers**, we're not just a GitHub professional services company; we're your pit crew in the fast-paced world of code management and development. 🏁
 
